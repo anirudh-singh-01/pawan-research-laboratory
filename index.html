@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pawan Research Laboratory | Foundation of the Best Reporting | Kanpur</title>
+    <meta name="description" content="Pawan Research Laboratory located Near Trimurti Apartment, Hamirpur Road, Hanspuram, Naubasta, Kanpur Nagar. Providing accurate pathology tests, blood tests, health packages, and home sample collection." />
+    <meta property="og:title" content="Pawan Research Laboratory | Foundation of the Best Reporting" />
+    <meta property="og:description" content="Premium pathology laboratory in Kanpur offering blood tests, liver function, kidney function, lipid profile, thyroid, dengue, home collection, and full wellness checkups." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-slate-50 text-slate-800 antialiased font-sans selection:bg-teal-700 selection:text-white">
+    <!-- Animated Medical Preloader -->
+    <div id="medical-preloader" aria-label="Loading pathology laboratory">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; max-width: 320px; padding: 24px;">
+        <!-- Medical Heartbeat & Biosensor Icon -->
+        <div class="heartbeat-icon-anim" style="width: 52px; height: 52px; border-radius: 14px; background: rgba(20, 184, 166, 0.15); border: 1px solid rgba(45, 212, 191, 0.4); display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+          <svg style="width: 28px; height: 28px; color: #2dd4bf;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
+          </svg>
+        </div>
+
+        <!-- Animated ECG Line -->
+        <svg style="width: 180px; height: 42px; margin-bottom: 18px;" viewBox="0 0 200 48" fill="none">
+          <path d="M0,24 L60,24 L72,8 L84,40 L94,14 L104,32 L112,24 L200,24" stroke="#2dd4bf" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="ecg-path" />
+        </svg>
+
+        <!-- Brand Name & Tagline -->
+        <div style="font-size: 17px; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; font-family: 'Plus Jakarta Sans', sans-serif;">
+          Pawan Research Laboratory
+        </div>
+        <div style="font-size: 11px; font-weight: 500; color: #99f6e4; margin-top: 4px; letter-spacing: 0.04em; text-transform: uppercase;">
+          Foundation of the Best Reporting
+        </div>
+
+        <!-- Loading Progress Bar -->
+        <div style="width: 140px; height: 3px; background: rgba(255,255,255,0.12); border-radius: 999px; margin-top: 20px; overflow: hidden;">
+          <div class="preloader-progress-fill" style="height: 100%; background: linear-gradient(90deg, #14b8a6, #2dd4bf); border-radius: 999px;"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      // Fallback preloader dismiss when page finishes loading
+      window.addEventListener('load', function() {
+        var p = document.getElementById('medical-preloader');
+        if (p) {
+          setTimeout(function() {
+            p.classList.add('preloader-hidden');
+            setTimeout(function() { if (p.parentNode) p.parentNode.removeChild(p); }, 600);
+          }, 450);
+        }
+      });
+    </script>
+  </body>
+</html>
+

@@ -1,0 +1,6 @@
+{
+  "name": "Pawan Research Laboratory",
+  "description": "Premium medical pathology laboratory website for Pawan Research Laboratory in Naubasta, Kanpur. Providing comprehensive clinical diagnostics, blood tests, wellness packages, and home sample collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
