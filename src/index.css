@@ -1,0 +1,266 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 8rem;
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6, .font-serif {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+/* 3D Depth & Perspective Utilities */
+.perspective-800 {
+  perspective: 800px;
+}
+.perspective-1000 {
+  perspective: 1000px;
+}
+.perspective-1200 {
+  perspective: 1200px;
+}
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+/* Smooth 3D Hover Tilt Effect */
+.card-3d-hover {
+  transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.35s ease;
+  will-change: transform;
+}
+.card-3d-hover:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 16px 32px -8px rgba(15, 118, 110, 0.12), 0 8px 16px -6px rgba(0, 0, 0, 0.06);
+}
+
+/* 3D Glass Surface Shimmer */
+.glass-3d {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.85) 0%, rgba(255, 255, 255, 0.65) 100%);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 8px 32px 0 rgba(15, 118, 110, 0.08), inset 0 1px 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+.glass-3d-dark {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.92) 0%, rgba(19, 78, 74, 0.9) 100%);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(45, 212, 191, 0.25);
+  box-shadow: 0 16px 36px -10px rgba(0, 0, 0, 0.5), inset 0 1px 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+/* Floating 3D animations */
+@keyframes float-slow {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-8px) rotate(0.5deg);
+  }
+}
+
+@keyframes pulse-subtle-glow {
+  0%, 100% {
+    opacity: 1;
+    filter: drop-shadow(0 0 6px rgba(45, 212, 191, 0.35));
+  }
+  50% {
+    opacity: 0.85;
+    filter: drop-shadow(0 0 14px rgba(45, 212, 191, 0.65));
+  }
+}
+
+@keyframes ecg-flow {
+  0% {
+    stroke-dashoffset: 200;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-float-slow {
+  animation: float-slow 6s ease-in-out infinite;
+}
+
+.animate-subtle-glow {
+  animation: pulse-subtle-glow 3s ease-in-out infinite;
+}
+
+.animate-ecg {
+  stroke-dasharray: 200;
+  animation: ecg-flow 3s linear infinite;
+}
+
+/* ==========================================================================
+   Medical-Grade Standard CSS Animations & Keyframes
+   ========================================================================== */
+
+/* 1. Subtle Pulse Animation for Booking / Action Buttons */
+@keyframes medicalPulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(15, 118, 110, 0.55);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(15, 118, 110, 0);
+    transform: scale(1.02);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(15, 118, 110, 0);
+    transform: scale(1);
+  }
+}
+
+.btn-pulse-medical {
+  animation: medicalPulse 2.8s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.btn-pulse-medical:hover {
+  animation-play-state: paused;
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 10px 24px -4px rgba(15, 118, 110, 0.45);
+}
+
+/* 2. Smooth Fade-In-Up for Main Headlines */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.85s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  will-change: transform, opacity;
+}
+
+.fade-in-up-delay-1 {
+  animation: fadeInUp 0.85s cubic-bezier(0.16, 1, 0.3, 1) 0.15s forwards;
+  opacity: 0;
+  will-change: transform, opacity;
+}
+
+.fade-in-up-delay-2 {
+  animation: fadeInUp 0.85s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+  opacity: 0;
+  will-change: transform, opacity;
+}
+
+/* 3. Services / Tests Section: Clean Hover-Zoom & Shadow-Lift Effect */
+.card-hover-lift {
+  transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1),
+              box-shadow 0.3s cubic-bezier(0.2, 0.8, 0.2, 1),
+              border-color 0.25s ease;
+  will-change: transform, box-shadow;
+}
+
+.card-hover-lift:hover {
+  transform: translateY(-6px) scale(1.018);
+  box-shadow: 0 20px 32px -8px rgba(15, 118, 110, 0.14),
+              0 8px 16px -4px rgba(0, 0, 0, 0.04);
+  border-color: rgba(13, 148, 136, 0.45);
+}
+
+/* 4. Scroll Reveal Animation for Laboratory / Equipment / About Sections */
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.75s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.75s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+.scroll-reveal.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* 5. Medical Preloader State & Animations */
+#medical-preloader {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at center, #0f2e2b 0%, #041f1d 100%);
+  color: #ffffff;
+  transition: opacity 0.5s ease-out, visibility 0.5s ease-out;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+#medical-preloader.preloader-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+@keyframes ecgDraw {
+  0% {
+    stroke-dashoffset: 400;
+  }
+  50% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: -400;
+  }
+}
+
+@keyframes heartBeat {
+  0%, 100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 6px rgba(45, 212, 191, 0.4));
+  }
+  14% {
+    transform: scale(1.18);
+    filter: drop-shadow(0 0 16px rgba(45, 212, 191, 0.8));
+  }
+  28% {
+    transform: scale(1.02);
+  }
+  42% {
+    transform: scale(1.14);
+    filter: drop-shadow(0 0 14px rgba(45, 212, 191, 0.7));
+  }
+  70% {
+    transform: scale(1);
+  }
+}
+
+@keyframes preloaderBar {
+  0% {
+    width: 0%;
+  }
+  60% {
+    width: 75%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+.ecg-path {
+  stroke-dasharray: 400;
+  animation: ecgDraw 2.4s ease-in-out infinite;
+}
+
+.heartbeat-icon-anim {
+  animation: heartBeat 1.4s ease-in-out infinite;
+}
+
+.preloader-progress-fill {
+  animation: preloaderBar 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+

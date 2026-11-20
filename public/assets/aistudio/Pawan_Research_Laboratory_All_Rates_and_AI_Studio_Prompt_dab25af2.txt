@@ -1,0 +1,778 @@
+PAWAN RESEARCH LABORATORY — WEBSITE RATE LIST
+Source: provided workbook 'Pawan_Research_Laboratory_MRP_20_percent_discount.xlsx'
+Pricing rule: use MRP only. Website discount = 20% of MRP; discounted price = MRP × 0.80.
+Do NOT use Assigned Price or B2B Price. If MRP is blank, show 'Price to be confirmed' and do not invent a price.
+Total individual-test rows extracted: 621
+Total profile/package rows extracted: 122
+
+==========================================================================================
+SECTION A — INDIVIDUAL TESTS
+==========================================================================================
+1. 17 OH Progesterone | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+2. 24 Hours urine MICROALBUMIN/CREATININE RATIO | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+3. 24 Hrs Urine Protein Electrophoresis | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+4. 24 hours urine Protein/Creatinine Ratio | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+5. 25 OH VITAMIN D 3 TOTAL | MRP: ₹1,400 | 20% discount: ₹280 | Website price: ₹1,120
+6. ABO Group & RH Type (Blood Group) | MRP: ₹120 | 20% discount: ₹24 | Website price: ₹96
+7. AFB C/S 42 DAYS (ANY FLUID) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+8. AFB C/S 42 DAYS (PUS) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+9. AFB C/S 42 DAYS (TISSUE) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+10. AFB C/S 42 DAYS (URINE) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+11. AFB Stain (Z-N Stain) 1ST Sample FOR FLUID | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+12. AFB Stain (Z-N Stain) 1ST Sample FOR PUS | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+13. AFB Stain (Z-N Stain) 1ST Sample FOR SPUTUM | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+14. AFB Stain (Z-N Stain) 1ST Sample FOR URINE | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+15. AFB Stain (Z-N Stain) 2ND Sample FOR FLUID | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+16. AFB Stain (Z-N Stain) 2ND Sample FOR PUS | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+17. AFB Stain (Z-N Stain) 2ND Sample FOR SPUTUM | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+18. AFB Stain (Z-N Stain) 2ND Sample FOR URINE | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+19. AFB Stain (Z-N Stain) 3RD Sample FOR FLUID | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+20. AFB Stain (Z-N Stain) 3RD Sample FOR PUS | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+21. AFB Stain (Z-N Stain) 3RD Sample FOR SPUTUM | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+22. AFB Stain (Z-N Stain) 3RD Sample FOR URINE | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+23. ALLERGY CONTACT | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+24. ALLERGY DRUGS | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+25. ALLERGY FOOD | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+26. ALLERGY FOOD NON VEG | MRP: ₹1,600 | 20% discount: ₹320 | Website price: ₹1,280
+27. ALLERGY INHALANTS | MRP: ₹1,600 | 20% discount: ₹320 | Website price: ₹1,280
+28. ALLERGY PROFILE | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+29. ALLERGY PROFILE -3 | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+30. ALLERGY PROFILE -4 | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+31. ALLERGY PROFILE -5 | MRP: ₹4,500 | 20% discount: ₹900 | Website price: ₹3,600
+32. ALPHA-1-ANTITRYPSIN QUANTITATION | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+33. AMINO ACID QUALITATIVE, CSF | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+34. AMINO ACID QUALITATIVE, PLASMA | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+35. AMINO ACID QUALITATIVE, URINE | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+36. AMMONIA | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+37. AMOEBIC SEROLOGY IgG | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+38. ANA PROFILE IMMUNOBLOT | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+39. ANCA - Myeloperoxidase (p-ANCA) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+40. ANCA - Serine Proteinase (c-ANCA) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+41. ANTI GLIADIN ANTIBODY IGA | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+42. ANTI GLIADIN ANTIBODY IGG | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+43. ANTI GLIADIN ANTIBODY TOTAL | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+44. ANTI MICROSOMAL ANTIBODY (AMA) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+45. ANTI MOG (MYELIN OLIGODENDROCYTE GLYCOPROTEIN) | MRP: ₹6,500 | 20% discount: ₹1,300 | Website price: ₹5,200
+46. ANTI MuSK (MUSCLE SPECIFIC KINASE) ANTIBODY | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+47. ANTI NMDA RECEPTOR/ANTI GLUTAMATE ANTIBODY, FLUID | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+48. ANTI NMDA RECEPTOR/ANTI GLUTAMATE ANTIBODY, SERUM | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+49. ANTI NUCLEAR ANTIBODY (ANA) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+50. ANTI NUCLEAR ANTIBODY (ANA-IFA) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+51. ANTI PHOSPHOLIPID ANTIBODY (APL) - IgG | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+52. ANTI PHOSPHOLIPID ANTIBODY (APL) - IgG,IgM | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+53. ANTI PHOSPHOLIPID ANTIBODY (APL) - IgM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+54. ANTI SCL - 70 ANTIBODY | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+55. ANTI SOLUBLE LIVER ANTIGEN (SLA) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+56. ANTI SPERM ANTIBODY (ASAB) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+57. ANTI THYROGLOBULIN ANTIBODY (ATG) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+58. ANTIDNASE-B (DNB) | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+59. ANTINUCLEAR ANTIBODIES-17 BLOT (ANA) | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+60. APOLIPOPROTEIN B/A1 | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+61. ASCA IgA (ANTI SACCHAROMYCES CEREVISIAE ANTIBODY) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+62. ASCA IgG (ANTI SACCHAROMYCES CEREVISIAE ANTIBODY) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+63. ASPERGILLUS ANTIBODY IgG | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+64. ASPERGILLUS ANTIBODY IgM | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+65. Absolute Eosinophil Count (AEC) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+66. Acetylcholine receptor (AChR) antibody | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+67. Acid Phosphtase | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+68. Activated Partial Thromboplastin Time (APTT/PTTK) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+69. Activated protein C resistance (APCR) | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+70. Activated protein S resistance (APSR) | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+71. Adenosine Deaminase (ADA) FOR CSF | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+72. Adenosine Deaminase (ADA) FOR PUS | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+73. Adenosine Deaminase (ADA) For Fluids | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+74. Adenosine Deaminase (ADA) For Serum | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+75. Adreno Corticotrophic Hormone (ACTH) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+76. Albumin, Body Fluid | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+77. Albumin, Serum | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+78. Alcohol (Ethonol), SERUM | MRP: ₹650 | 20% discount: ₹130 | Website price: ₹520
+79. Alcohol (Ethonol), URINE | MRP: ₹650 | 20% discount: ₹130 | Website price: ₹520
+80. Aldolase | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+81. Aldosterone | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+82. Aldosterone Renin ratio | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+83. Alkaline Phosphatase (ALP) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+84. Allergy profile without nonveg | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+85. Alpha Fetoprotein (AFP), SERUM | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+86. Alpha Fetoprotein(AFP), CSF | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+87. Alpha Fetoprotein(AFP), FLUID | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+88. Alpha-1 Acid Glycoprotein | MRP: ₹4,100 | 20% discount: ₹820 | Website price: ₹3,280
+89. Aluminum | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+90. Amphetamine (Qualitative) Urine | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+91. Amylase (Serum) | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+92. Amylase FLUID | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+93. Androgen Index | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+94. Androstenedione (A4) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+95. Angiotensin Converting Enzyme(ACE), CSF | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+96. Angiotensin Converting Enzyme(ACE), SERUM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+97. Anti Chlamydia Trachomatis IgG | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+98. Anti Chlamydia Trachomatis IgM | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+99. Anti Cyclic Citrullinated Peptide Antibody (Anti-CCP) | MRP: ₹1,600 | 20% discount: ₹320 | Website price: ₹1,280
+100. Anti Desmoglein Antibody -DSG1 & DSG 3 | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+101. Anti HBc TOTAL | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+102. Anti Jo-I antibody | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+103. Anti Microsomal/Thryroperoxidase Antibody (AMA/Anti TPO) Titre | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+104. Anti Mullerian Hormone (AMH) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+105. Anti SS-A (RO) Antibody | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+106. Anti SS-B (LA) Antibody | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+107. Anti Smooth Muscle Antibody (ASMA) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+108. Anti ds DNA Antibody | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+109. Anti streptolysin-0 ( ASO) Titre | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+110. Anti-DGP IgA | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+111. Anti-NMO (AQUAPORIN 4) | MRP: ₹4,500 | 20% discount: ₹900 | Website price: ₹3,600
+112. Anti-Nuclear Antibodies HEp-2 (ANA-HEp-2) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+113. Anti-TPO antibodies | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+114. Antidiuretic hormone (ADH) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+115. Antithrombin III | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+116. Apolipoprotein A1 (APO-A1) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+117. Apolipoprotein B (APO-B) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+118. Aspergillus Antibody - IgG & IgM | MRP: ₹3,200 | 20% discount: ₹640 | Website price: ₹2,560
+119. Aspergillus fumigatus IgE | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+120. Aspergillus fumigatus IgG | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+121. B K VIRUS | MRP: ₹7,000 | 20% discount: ₹1,400 | Website price: ₹5,600
+122. B-TYPE NATRIURETIC PEPTIDE (BNP) | MRP: ₹1,700 | 20% discount: ₹340 | Website price: ₹1,360
+123. BABESIA MICROTI ANTIBODIES IgG & IgM | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+124. BCR-ABL International Scale PCR (Method: Real Time PCR) | MRP: ₹9,500 | 20% discount: ₹1,900 | Website price: ₹7,600
+125. BENCE JONES PROTEIN, URINE, QUALITATIVE | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+126. BETA 2 GLYCOPROTEIN 1 - IGA | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+127. BETA 2 GLYCOPROTEIN 1 - IGG | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+128. BETA 2 GLYCOPROTEIN 1 - IGM | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+129. BETA2 MICROGLOBULIN SERUM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+130. BETA2 MICROGLOBULIN URINE | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+131. BIOTINIDASE ACTIVITY QUANTITATIVE BLOOD | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+132. BLEEDING TIME AND CLOTTING TIME (BT, CT) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+133. BLOOD C/S Anaerobic | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+134. BLOOD C/S BACTEC | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+135. BLOOD KETONE (D3HB) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+136. BLOOD UREA | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+137. BLOOD UREA NITROGEN (BUN) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+138. BODY FLUID FOR GRAM STAIN | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+139. BREAST DISCHARGE C/S | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+140. Barbiturates (Qualitative) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+141. Benzodiazepines (Qualitative) urine | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+142. Beta Human Chorionic Gonodotropin Hormone (BHCG) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+143. Beta Human Chorionic Gonodotropin Hormone (BHCG), URINE | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+144. Beta cell function | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+145. Bicarbonate | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+146. Bilirubin (Total + Direct + Indirect) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+147. Bone marrow | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+148. Bronchoalveolar Lavage (BAL) Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+149. Brucella -IgM | MRP: ₹1,100 | 20% discount: ₹220 | Website price: ₹880
+150. Brucella IgG & IgM | MRP: ₹2,100 | 20% discount: ₹420 | Website price: ₹1,680
+151. Brucella- IgG | MRP: ₹1,100 | 20% discount: ₹220 | Website price: ₹880
+152. C-PEPTIDE (F) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+153. C-PEPTIDE (PP) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+154. C-PEPTIDE (R) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+155. C-REACTIVE PROTEIN (CRP) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+156. CA 125- (FLUID) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+157. CA 19.9 (FLUID) | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+158. CA-27.29 Stage II or III breast Cancer | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+159. CA-72.4 GASTRIC CANCER MARKER | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+160. CA125 - Cancer marker | MRP: ₹1,100 | 20% discount: ₹220 | Website price: ₹880
+161. CA15.3 - Breast Cancer marker | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+162. CA19.9 - Pancreatic Cancer Marker | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+163. CARDIOLIPIN ANTIBODY (ACL) - IgA | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+164. CARDIOLIPIN ANTIBODY (ACL) - IgA,IgG,IgM | MRP: ₹1,600 | 20% discount: ₹320 | Website price: ₹1,280
+165. CARDIOLIPIN ANTIBODY (ACL) - IgG | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+166. CARDIOLIPIN ANTIBODY (ACL) - IgM | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+167. CD3,CD4,CD8 | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+168. CEA (FLUID) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+169. CERULOPLASMIN | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+170. CHIKUNGUNYA RAPID TEST (IGG/IGM) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+171. CHIKUNGUNYA TEST ELISA (IGG) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+172. CHIKUNGUNYA TEST ELISA (IGG/IGM) | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+173. CHIKUNGUNYA TEST ELISA (IGM) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+174. CHLORIDE SERUM | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+175. CHROMOGRANIN -A | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+176. CHROMOGRANIN -A (URINE) | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+177. COMPLEMENT 3 (C3) | MRP: ₹650 | 20% discount: ₹130 | Website price: ₹520
+178. COMPLEMENT 4 (C4) | MRP: ₹650 | 20% discount: ₹130 | Website price: ₹520
+179. CORTISOL EVENING | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+180. CORTISOL MORNING | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+181. COTININE URINE | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+182. COW MILK C/S | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+183. CREATININE - SERUM | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+184. CREATININE PHOSPHOKINASE (CPK MB) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+185. CRYPTOCOCCUS ANTIGEN, CSF | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+186. CRYPTOCOCCUS ANTIGEN, SERUM | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+187. CSF C/S | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+188. CSF FOR TB PCR | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+189. CSF R/M | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+190. CSF-(FTA-ABS) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+191. CSF-CRYPTOCOCCUS ANTIGEN DETECTION | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+192. CYFRA 21-1; LUNG CANCER MARKER | MRP: ₹2,700 | 20% discount: ₹540 | Website price: ₹2,160
+193. CYSTATIN -C | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+194. CYTOMEGALO VIRUS (CMV) - IgG | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+195. CYTOMEGALO VIRUS (CMV) - IgM | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+196. CYTOMEGALOVIRUS (CMV) PCR, QUANTITATIVE, | MRP: ₹5,500 | 20% discount: ₹1,100 | Website price: ₹4,400
+197. CYTOMEGALOVIRUS (CMV) PCR, QUANTITATIVE, URINE | MRP: ₹5,500 | 20% discount: ₹1,100 | Website price: ₹4,400
+198. CYTOMEGALOVIRUS AVIDITY(CMV),IgG | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+199. Calcitonin | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+200. Calcium | MRP: ₹70 | 20% discount: ₹14 | Website price: ₹56
+201. Calcium - Spot urine | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+202. Calprotectin, SERUM | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+203. Carcino embryonic antigen (CEA) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+204. Centromere Antibodies, IgG | MRP: ₹1,300 | 20% discount: ₹260 | Website price: ₹1,040
+205. Cerebrospinal Fluid (CSF) Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+206. Cervical Swab C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+207. Cholesterol LDL | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+208. Cholesterol Total | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+209. Cholesterol Urine | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+210. Cholinesterase | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+211. Cholylglycine (CG) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+212. Chromosome Analysis, Blood (Karyotyping) | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+213. Cobalamine | MRP: ₹1,300 | 20% discount: ₹260 | Website price: ₹1,040
+214. Cocaine | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+215. Complete Blood Count (CBC) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+216. Complete Blood Count (CBC) +ESR | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+217. Copper (Urine Random) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+218. Creatine kinase | MRP: ₹550 | 20% discount: ₹110 | Website price: ₹440
+219. Creatine phosphokinase (CPK TOTAL) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+220. Creatinine Clearance Test | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+221. Creatinine Random Urine | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+222. Creatinine,24 Hours Urine | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+223. Cycle test | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+224. Cytomegalovirus IgM Antibody (CMV IgM) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+225. D - DIMER QUANTITATIVE | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+226. DEHYDROEPIANDROSTERONE (DHEA) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+227. DENGUE ANTIGEN ELISA NS1 | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+228. DENGUE ELISA IgG | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+229. DENGUE ELISA IgG,IgM,NS1 | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+230. DENGUE ELISA IgM | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+231. DENGUE IgG,IgM,NS1 RAPID | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+232. DENGUE IgG,IgM-Rapid | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+233. DENGUE NS1 RAPID | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+234. DHEA - SULPHATE (DHEAS) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+235. DIHYDROTESTOSTERONE (DHT) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+236. DIHYDROTESTOSTERONE DHT FREE | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+237. DIPHTHERIA ANTIBODY IgG | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+238. DIRECT COOMBS TEST | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+239. DOUBLE MARKER - FIRST TRIMESTER | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+240. DRUGS ALLERGY | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+241. DRUGS OF ABUSE (10 drugs) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+242. Deoxycortisol | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+243. Digoxin | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+244. Dopamine | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+245. Drain Fluid Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+246. ECHINOCOCCUS IgG,IgM ELISA | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+247. EPSTEIN BARR VIRAL CAPSID ANTIGEN - IGG | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+248. EPSTEIN BARR VIRAL CAPSID ANTIGEN - IGM | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+249. ERYTHROCYTE SEDIMENTATION RATE (ESR) | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+250. ESTRADIOL (E2) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+251. Echinococcus Antibody IgG (Hydatid serology) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+252. Endomysial Antibody IgA | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+253. Erythropoietin (EPO) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+254. FACTOR VII | MRP: ₹2,900 | 20% discount: ₹580 | Website price: ₹2,320
+255. FAECAL CALPROTECTIN OR FECAL CALPROTECTIN | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+256. FECAL ELASTASE, STOOL | MRP: ₹7,000 | 20% discount: ₹1,400 | Website price: ₹5,600
+257. FERRITIN | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+258. FIBRINOGEN | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+259. FILARIA ANTIGEN RAPID TEST | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+260. FLUID C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+261. FLUORESCENT TREPONEMAL ANTIBODIES; FTA-ABS, SERUM | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+262. FNAC (Fine Needle Aspiration Cytology) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+263. FOLLICLE STIMULATING HORMONE (FSH) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+264. FREE BETA HCG | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+265. FREE PSA | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+266. FREE TESTOSTERONE | MRP: ₹1,400 | 20% discount: ₹280 | Website price: ₹1,120
+267. FREE THYROXINE (FT4) | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+268. FREE TRIIODOTHYRONINE (FT3) | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+269. FRUCTOSAMINE | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+270. FT3, FT4, TSH | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+271. FT4,TSH | MRP: ₹230 | 20% discount: ₹46 | Website price: ₹184
+272. Factor IX FUNCTIONAL | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+273. Factor V | MRP: ₹3,200 | 20% discount: ₹640 | Website price: ₹2,560
+274. Factor VIII FUNCTIONAL / ACTIVITY | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+275. Fibrinogen Degradation Product (FDP) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+276. Fluid CA 125 | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+277. Fluid Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+278. Fluid Routine Examination | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+279. Folate (folic acid) RBC | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+280. Folic Acid | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+281. Free Androgen Index | MRP: ₹2,100 | 20% discount: ₹420 | Website price: ₹1,680
+282. Fungal Examination | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+283. Fungal Stain, CSF | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+284. Fungal stain for sputum | MRP: ₹250 | 20% discount: ₹50 | Website price: ₹200
+285. GAD 65 Antibody , Serum | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+286. GAMMA GLUTAMYL TRANSFERASE (GGT) | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+287. GANGLIOSIDE ANTIBODY IgG | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+288. GANGLIOSIDE ANTIBODY IgM | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+289. GASTRIN | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+290. GFR (GLOMERULAR FILTRATION RATE) | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+291. GLUCOSE-6-PHOSPHATE DEHYDROGENASE | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+292. Gene Xpert (CB NAAT) CSF | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+293. Gene Xpert (CB NAAT) FLUID | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+294. Gene Xpert (CB NAAT) PUS | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+295. Gene Xpert (CB NAAT) SPUTUM | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+296. Gene Xpert (CB NAAT) TISSUE | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+297. Gene Xpert (CB NAAT) URINE | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+298. Glucose F (Blood Sugar Fasting) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+299. Glucose PP (Blood Sugar Post prandial) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+300. Glucose R (Blood Sugar Random) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+301. Glycated Haemoglobin (HbA1c) | MRP: ₹550 | 20% discount: ₹110 | Website price: ₹440
+302. HAPTOGLOBIN | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+303. HB, TLC, D LC, ESR | MRP: ₹320 | 20% discount: ₹64 | Website price: ₹256
+304. HB, TLC, DLC | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+305. HCV RNA PCR Quantitative | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+306. HDL CHOLESTEROL - DIRECT | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+307. HELICOBACTER PYLORI - IGG | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+308. HELICOBACTER PYLORI - IGM | MRP: ₹1,300 | 20% discount: ₹260 | Website price: ₹1,040
+309. HELICOBACTER PYLORI - IgA | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+310. HELICOBACTER PYLORI ANTIGEN (H. PYLORI), STOOL | MRP: ₹1,400 | 20% discount: ₹280 | Website price: ₹1,120
+311. HEMOGLOBIN | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+312. HEPATITIS B ENVELOPE ANTIGEN (AHBE) - TOTAL | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+313. HEPATITIS B ENVELOPE ANTIGEN (HBEAG) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+314. HEPATITIS B ENVELOPE ANTIGEN (HbeAb ) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+315. HEPATITIS B VIRUS (HBV) QUANTITATIVE PCR | MRP: ₹3,900 | 20% discount: ₹780 | Website price: ₹3,120
+316. HEPATITIS E ANTIBODY ( HEV), IgG | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+317. HEPATITIS E ANTIBODY ( HEV), IgM | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+318. HERPES SIMPLEX VIRUS (HSV) TYPE 1 & 2, PCR, QUALITATIVE SERUM | MRP: ₹4,500 | 20% discount: ₹900 | Website price: ₹3,600
+319. HIGH SENSITIVITY C-REACTIVE PROTEIN (HS-CRP) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+320. HIV - WESTERN BLOT | MRP: ₹2,200 | 20% discount: ₹440 | Website price: ₹1,760
+321. HIV 1 & 2 Antibody -Rapid | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+322. HIV 1 & 2 Antibody ELISA | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+323. HIV 1 RNA PCR - Qualitative | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+324. HIV 1- Quantitative PCR | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+325. HIV-p24 Antigen detection | MRP: ₹4,500 | 20% discount: ₹900 | Website price: ₹3,600
+326. HLA B27 ESTIMATION | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+327. HLA B27 QUALITATIVE PCR | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+328. HLA TYPING | MRP: ₹12,000 | 20% discount: ₹2,400 | Website price: ₹9,600
+329. HOMA -IR test | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+330. HOMOCYSTEINE | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+331. HSV 1&2 DNA Qualitative PCR (CSF) | MRP: ₹4,500 | 20% discount: ₹900 | Website price: ₹3,600
+332. HUMAN GROWTH HORMONE (HGH) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+333. HUMAN PAPILLOMA VIRUS (HPV), REAL TIME PCR | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+334. Hb Electrophoresis by HPLC | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+335. Hcv genotyping | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+336. Hepatitis A virus IgG Antibodies (HAV IgG) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+337. Hepatitis A virus IgM Antibodies | MRP: ₹1,100 | 20% discount: ₹220 | Website price: ₹880
+338. Hepatitis A virus IgM Antibodies (HAV IgM) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+339. Hepatitis A virus Total Antibodies (HAV-Total) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+340. Hepatitis B core antibody IgM (HBC IgM) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+341. Hepatitis B core antigen - Total | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+342. Hepatitis B core antigen TOTAL | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+343. Hepatitis B surface Antibody (HBsAb) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+344. Hepatitis B surface antigen (HBsAg) (Rapid) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+345. Hepatitis B surface antigen (HBsAg) CLIA | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+346. Hepatitis B surface antigen (HBsAg) ELISA | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+347. Hepatitis B surface antigen IgG | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+348. Hepatitis B surface antigen IgM | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+349. Hepatitis C virus (HCV Rapid) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+350. Hepatitis C virus (HCV) CLIA | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+351. Hepatitis C virus (HCV) ELISA | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+352. Herpes Simplex Virus (HSV) -IgG 1 | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+353. Herpes Simplex Virus (HSV) -IgG 1, CSF | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+354. Herpes Simplex Virus (HSV) -IgG 2 | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+355. Herpes Simplex Virus (HSV) -IgG 2, CSF | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+356. Herpes Simplex Virus (HSV) -IgM 1 | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+357. Herpes Simplex Virus (HSV) -IgM 1, CSF | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+358. Herpes Simplex Virus (HSV) -IgM 2 | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+359. Herpes Simplex Virus (HSV) -IgM 2, CSF | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+360. Histopathology (L) | MRP: ₹1,400 | 20% discount: ₹280 | Website price: ₹1,120
+361. Histopathology (M) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+362. Histopathology (s) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+363. Human Papilloma Virus (HPV) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+364. IMMUNOGLOBULIN  (IGA) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+365. IMMUNOGLOBULIN  (IGG) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+366. IMMUNOGLOBULIN  (IGM) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+367. IMMUNOGLOBULIN IgG SUBCLASS | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+368. INHIBIN A | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+369. INSULIN - FASTING | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+370. INSULIN - PP | MRP: ₹550 | 20% discount: ₹110 | Website price: ₹440
+371. INSULIN ANTIBODIES | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+372. INSULIN LIKE GROWTH FACTOR 1 | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+373. INTACT PARATHYROID HORMONE (PTH) | MRP: ₹1,600 | 20% discount: ₹320 | Website price: ₹1,280
+374. IONIC CALCIUM | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+375. IRON | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+376. IRON PROFILE | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+377. Immunofixation Electrophoresis | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+378. Immunoglobulin D (IgD) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+379. Indirect Coombs test (ICT) | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+380. Inhibin -B | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+381. Insulin Random | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+382. Interleukin 6 | MRP: ₹2,200 | 20% discount: ₹440 | Website price: ₹1,760
+383. Intrinsic Factor Antibody | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+384. JAK2 mutation test | MRP: ₹10,000 | 20% discount: ₹2,000 | Website price: ₹8,000
+385. Jo-1 ANTIBODY | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+386. KALA AZAR ANTIBODY RAPID TEST | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+387. KAPPA / LAMBDA LIGHT CHAINS, FREE, SERUM | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+388. KOH Preparation | MRP: ₹350 | 20% discount: ₹70 | Website price: ₹280
+389. Karyotyping-POC | MRP: ₹12,000 | 20% discount: ₹2,400 | Website price: ₹9,600
+390. Ketone (Acetone,Hydroxybutyrate),Urine | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+391. Kidney Profile | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+392. Kidney Profile with GFR | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+393. LACTATE | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+394. LACTATE DEHYDROGENASE (LDH) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+395. LE Cells | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+396. LEAD TEST | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+397. LEPROSY-IgG | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+398. LEPROSY-IgG,IgM | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+399. LEPROSY-IgM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+400. LEPTIN | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+401. LH,FSH,PRL | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+402. LH:FSH Ratio | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+403. LIVER FUNCTION TESTS | MRP: ₹650 | 20% discount: ₹130 | Website price: ₹520
+404. LIVER KIDNEY MICROSOMES (LKM) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+405. LP-PLA2 | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+406. Lactate Dehyderogenase (LDH) FLUID | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+407. Lambda Light Chain | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+408. Leptospira Antibody IgG | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+409. Leptospira Antibody IgM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+410. Lipase | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+411. Lipase Fluid | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+412. Lipid Profile | MRP: ₹650 | 20% discount: ₹130 | Website price: ₹520
+413. Lipoprotein (a) [Lp(a)] | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+414. Lithium (Li) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+415. Lupus Anticoagulant (DRVVT) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+416. Luteinising Hormone (LH) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+417. MALARIA ANTIGEN ELISA | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+418. MALARIAL ANTIGEN (Parasite V & F) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+419. MALARIAL PARASITE SLIDE | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+420. MANTOUX | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+421. MEASLES ANTIBODY - IGG | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+422. MEASLES ANTIBODY - IGM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+423. MENSTRUAL BLOOD AFB | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+424. MICROALBUMIN URINE | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+425. MICROALBUMIN/CREATININE RATIO (URINE) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+426. MICROFILARIA IgG, IgM ELISA | MRP: ₹1,300 | 20% discount: ₹260 | Website price: ₹1,040
+427. MICROFILARIA IgG, IgM RAPID | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+428. MICROFILARIA SLIDE | MRP: ₹250 | 20% discount: ₹50 | Website price: ₹200
+429. MILK C/S | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+430. MOTHER MILK CYTOLOGY | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+431. MPO - ANCA ( P - ANCA ) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+432. MUMPS ANTIBODY - IGG | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+433. MUMPS ANTIBODY - IGM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+434. MYOGLOBIN SERUM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+435. Magnesium | MRP: ₹350 | 20% discount: ₹70 | Website price: ₹280
+436. Marijuana (CANNABINOIDS) | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+437. Metanephrine free serum | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+438. Metanephrine serum | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+439. Microalbumin & Creatinine ratio (Urine ) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+440. Microalbumin 24 hrs URINE | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+441. Microalbumin SERUM | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+442. Mycobacterium TB PCR - Qualitative (EDTA) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+443. Mycobacterium TB PCR - Qualitative (FLUID) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+444. Mycobacterium TB PCR - Qualitative (SPUTUM) | MRP: ₹1,700 | 20% discount: ₹340 | Website price: ₹1,360
+445. Mycobacterium TB PCR - Qualitative (TISSUE) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+446. Mycobacterium TB PCR - Qualitative (menstruation BLOOD) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+447. Mycoplasma Pneumoniae IgG | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+448. Mycoplasma Pneumoniae IgM | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+449. Myoglobin URINE | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+450. NIPT (Noninvasive prenatal testing) | MRP: ₹25,000 | 20% discount: ₹5,000 | Website price: ₹20,000
+451. NT-PROBNP | MRP: ₹1,700 | 20% discount: ₹340 | Website price: ₹1,360
+452. ORAL GLUCOSE CHALLENGE TEST (OGCT) | MRP: ₹160 | 20% discount: ₹32 | Website price: ₹128
+453. OT Swabs C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+454. Osmolality - 24 hrs Urine | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+455. Osmolality - Serum | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+456. Osmolality - Urine Random | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+457. PAP Smear | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+458. PERIPHERAL BLOOD SMEAR (PBS) | MRP: ₹250 | 20% discount: ₹50 | Website price: ₹200
+459. PH Urine | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+460. PHOSPHOROUS SERUM | MRP: ₹180 | 20% discount: ₹36 | Website price: ₹144
+461. PLATELET COUNT | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+462. POC microarray | MRP: ₹25,000 | 20% discount: ₹5,000 | Website price: ₹20,000
+463. POTASSIUM | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+464. PR3 - ANCA ( C-ANCA ) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+465. PREGNANCY ASSOCIATED PLASMA PROTEIN A (PAPPA-A) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+466. PROCALCITONIN | MRP: ₹1,300 | 20% discount: ₹260 | Website price: ₹1,040
+467. PROSTATE SPECIFIC ANTIGEN (PSA) | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+468. PROTEIN - TOTAL | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+469. PROTEIN ELECTROPHORESIS SERUM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+470. PROTEIN,ALBUMIN ,GLOBULIN | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+471. PUS C/S Anaerobic | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+472. PUS FOR AFB STAIN & GRAM STAIN | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+473. PUS MICROSCOPY | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+474. Parvovirus B19 IgG,IgM | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+475. Parvovirus B19 IgM | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+476. Phospholipase A2 Receptor Antibody IgG (PLA2R) | MRP: ₹13,000 | 20% discount: ₹2,600 | Website price: ₹10,400
+477. Plasma Metanephrine | MRP: ₹2,200 | 20% discount: ₹440 | Website price: ₹1,760
+478. Plasma Non metanephrine free | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+479. Plasma Renin Activity | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+480. Pleural Fluid Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+481. Potassium Random URINE | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+482. Pregnancy Test Urine | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+483. Progesterone | MRP: ₹550 | 20% discount: ₹110 | Website price: ₹440
+484. Prolactin (PRL) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+485. Protein (Microprotein) Random - Urinary | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+486. Protein (Urine) | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+487. Protein - Fluids | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+488. Protein 24 hrs - Urinary | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+489. Protein S | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+490. Protein c | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+491. Prothrombin Time (PT) with INR | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+492. Pus Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+493. Pus c/s BACTEC Aerobic | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+494. QUADRUPLE MARKER - SECOND TRIMESTER | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+495. RETICULOCYTE COUNT (%) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+496. RHEUMATOID FACTOR (RF) Quantitative | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+497. RUBELLA AVIDITY, IgG, SERUM | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+498. Rh Antibody Titer | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+499. Roma Score ( HE4 & CA125) | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+500. Rota virus detection | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+501. Rubella Virus - IgG | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+502. Rubella Virus - IgM | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+503. SCRUB TYPHUS IGG | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+504. SCRUB TYPHUS IGM | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+505. SCRUB TYPHUS RAPID TEST (IGG/IGM) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+506. SEMEN C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+507. SERUM COPPER | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+508. SERUM ELECTROLYTES | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+509. SERUM GLOBULIN | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+510. SERUM ZINC | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+511. SEX HORMONE BINDING GLOBULIN (SHBG) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+512. SGOT ; Aspartate Aminotransferase (AST) | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+513. SGPT ; ALANINE AMINOTRANSFERASE (ALT) | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+514. SPOT urine Protein/Creatinine Ratio | MRP: ₹120 | 20% discount: ₹24 | Website price: ₹96
+515. SPUTUM AFB | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+516. SPUTUM AFB CULTURE FOR ATT | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+517. SPUTUM C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+518. SPUTUM FOR GRAM STAIN | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+519. SPUTUM for koh | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+520. STOOL C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+521. STOOL FOR REDUCING SUGAR | MRP: ₹130 | 20% discount: ₹26 | Website price: ₹104
+522. STOOL Metanephrine | MRP: ₹2,200 | 20% discount: ₹440 | Website price: ₹1,760
+523. SWAB C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+524. Saag test | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+525. Salmonella Typhi (TYPHI DOT IgG & IgM) ELISA | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+526. Salmonella Typhi (TYPHI DOT IgG & IgM) RAPID | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+527. Salmonella Typhi (TYPHI DOT IgG) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+528. Salmonella Typhi (TYPHI DOT IgM) | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+529. Semen Analysis | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+530. Serum Acetylcholinesterase, Erythrocytes | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+531. Serum Free Lambda (Light Chain) | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+532. Serum HEPCIDIN | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+533. Serum phosphate | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+534. Skin scraping for Fungal examination | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+535. Sm/RNP ANTIBODIES | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+536. Sm/RNP Antibody | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+537. Sodium | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+538. Sodium Random Urine | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+539. Sodium biocorbonet | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+540. Sputum Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+541. Stone Analysis | MRP: ₹1,450 | 20% discount: ₹290 | Website price: ₹1,160
+542. Stool Examination | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+543. Stool Examination For Ova & Cysts | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+544. Stool for Hanging Drop | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+545. Synovial Fluid Cytology | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+546. TACROLIMUS | MRP: ₹3,600 | 20% discount: ₹720 | Website price: ₹2,880
+547. TB GOLD, INTERFERON GAMMA RELEASE ASSAY (IGRA) | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+548. THYROGLOBULIN (TG) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+549. THYROID PROFILE -3 (T3 T4 TSH) | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+550. THYROID PROFILE-5 (FT3 FT4 T3 T4 TSH ) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+551. THYROID STIMULATING HORMONE (TSH) | MRP: ₹250 | 20% discount: ₹50 | Website price: ₹200
+552. TIP C/S | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+553. TISSUE C/S Aerobic | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+554. TISSUE C/S Anaerobic | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+555. TISSUE TRANSGLUTAMINASE - IGA (TTG) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+556. TISSUE TRANSGLUTAMINASE TTG-DGP SCREEN | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+557. TORCH-10 | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+558. TORCH-10 WITH Avidity | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+559. TORCH-4 IgG | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+560. TORCH-4 IgM | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+561. TORCH-8 | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+562. TORCH-IgG-5 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+563. TORCH-IgG-5 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+564. TORCH-IgM-5 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+565. TOTAL BILE ACID | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+566. TOTAL IGE | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+567. TOTAL IRON BINDING CAPACITY (TIBC) | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+568. TOTAL THYROXINE (T4) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+569. TOTAL TRIIODOTHYRONINE (T3) | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+570. TPHA; TREPONEMA PALLIDUM HEMAGGLUTINATION | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+571. TPMT Genotyping | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+572. TREPONEMA PALLIDUM ANTIBODY (TPAB) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+573. TREPONEMA PALLIDUM HAEMAGGLUTINATION | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+574. TRIGLYCERIDES | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+575. TRIPLE H ELISA (HIV,HCV,HBSAG) | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+576. TRIPLE MARKER - SECOND TRIMESTER | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+577. TROPONIN- T, HIGH SENSITIVE (CLIA) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+578. TROPONIN-T | MRP: ₹1,300 | 20% discount: ₹260 | Website price: ₹1,040
+579. TSH RECEPTOR ANTIBODIES | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+580. TSH Ultrasensitive | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+581. TSH,PRL | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+582. Testosterone- Total | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+583. Throat Swab C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+584. Tissue Transglutaminase Antibody ( tTG-IgG) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+585. Tissue Transglutaminase Antibody ( tTG-IgM) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+586. Toxoplasma-IgG | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+587. Toxoplasma-IgM | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+588. Triple H Rapid - (HIV,HBsAg,HCV) | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+589. Troponin - I (Quantitative) | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+590. Troponin - I RAPID | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+591. U1RNP ANTIBODIES, SERUM | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+592. UNCONJUGATED ESTRIOL (E3) | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+593. URINE C/S | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+594. Uric Acid | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+595. Urine Bile Salt & Bile Pigment | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+596. Urine Conductivity | MRP: ₹250 | 20% discount: ₹50 | Website price: ₹200
+597. Urine R/M (Urine Analysis) | MRP: ₹100 | 20% discount: ₹20 | Website price: ₹80
+598. Urine for Chyle | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+599. VAGINAL SWAB C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+600. VAGINAL SWAB C/S | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+601. VDRL - Rapid | MRP: ₹310 | 20% discount: ₹62 | Website price: ₹248
+602. VDRL -TEST | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+603. VITAMIN B-12 | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+604. VITAMIN B1/THIAMIN | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+605. VITAMIN B2/RIBOFLAVIN | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+606. VITAMIN B6/PYRIDOXAL - 5 - PHOSPHATE | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+607. VITAMIN B7/BIOTIN | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+608. VITAMIN B9/FOLIC ACID | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+609. VITAMIN D2 | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+610. VITAMIN E | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+611. Valporic Acid (Sodium Valproate) | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+612. Vitamin D 3 (1, 25 D ihydroxyvitamin D 3) | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+613. Vitamin D3 | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+614. WIDAL | MRP: ₹150 | 20% discount: ₹30 | Website price: ₹120
+615. anti smith antibody | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+616. c1 esterase inhibitor | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+617. factor v leiden | MRP: ₹5,200 | 20% discount: ₹1,040 | Website price: ₹4,160
+618. inorganic phosphorus | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+619. liquid-based Pap smear | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+620. stool for occult blood | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+621. toxoplasma avidity test | MRP: ₹450 | 20% discount: ₹90 | Website price: ₹360
+
+==========================================================================================
+SECTION B — PROFILES AND PACKAGES
+==========================================================================================
+1. WELLENESS1.2 ESR | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+2. Wellness -3 | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+3. Wellness -2 | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+4. Wellness -1 | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+5. WELLNESS-1.7 | MRP: ₹7,500 | 20% discount: ₹1,500 | Website price: ₹6,000
+6. WELLNESS-1.1+CBC | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+7. WELLNESS-1.6 | MRP: ₹6,500 | 20% discount: ₹1,300 | Website price: ₹5,200
+8. WELLNESS-1.5 | MRP: ₹5,800 | 20% discount: ₹1,160 | Website price: ₹4,640
+9. WELLNESS-1.4 | MRP: ₹4,800 | 20% discount: ₹960 | Website price: ₹3,840
+10. WELLNESS-1.3 | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+11. WELLNESS-1.2 | MRP: ₹1,600 | 20% discount: ₹320 | Website price: ₹1,280
+12. WELLNESS-1.1 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+13. HY FITNESS COMPREHENSIVE PROFILE | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+14. HY FITNESS-1.3 PRO | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+15. HY FITNESS-B | MRP: ₹400 | 20% discount: ₹80 | Website price: ₹320
+16. HY FITNESS-A | MRP: ₹500 | 20% discount: ₹100 | Website price: ₹400
+17. HY FITNESS C PRO | MRP: ₹1,600 | 20% discount: ₹320 | Website price: ₹1,280
+18. HY FIT PACK -B | MRP: ₹1,350 | 20% discount: ₹270 | Website price: ₹1,080
+19. HY FIT PACK -A | MRP: ₹950 | 20% discount: ₹190 | Website price: ₹760
+20. HY FITNESS-3 | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+21. HY FITNESS-2 | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+22. HY FITNESS-1 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+23. HY FITNESS-4 | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+24. HY FITNESS-1.3 | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+25. HY FITNESS-1.2 | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+26. HY FITNESS-1.1 | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+27. 1.3 Fitness Advance | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+28. ANC PROFILE | MRP: ₹2,300 | 20% discount: ₹460 | Website price: ₹1,840
+29. HY FEVER -1 | MRP: ₹750 | 20% discount: ₹150 | Website price: ₹600
+30. HY FEVER -2 | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+31. HY FEVER -3 | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+32. HY FEVER -4 | MRP: ₹2,200 | 20% discount: ₹440 | Website price: ₹1,760
+33. HY WOMEN PROFILE | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+34. WELLENESS Testing | MRP: ₹1,800 | 20% discount: ₹360 | Website price: ₹1,440
+35. WELLNESS-1 PLUS | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+36. APLA PROFILE | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+37. HY FITNESS SMART-A | MRP: ₹2,550 | 20% discount: ₹510 | Website price: ₹2,040
+38. HY FITNESS SMART | MRP: ₹2,400 | 20% discount: ₹480 | Website price: ₹1,920
+39. HY FITNESS SMART 3 | MRP: ₹3,200 | 20% discount: ₹640 | Website price: ₹2,560
+40. WELLNESS SMART | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+41. HY FITNESS-1.3 +PSA | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+42. HY FITNESS 1.3 + CRP | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+43. HY FITNESS 1.0 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+44. HY FITNESS 4.1 | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+45. WELLNESS-1.1 MINI | MRP: ₹800 | 20% discount: ₹160 | Website price: ₹640
+46. WELLNESS 1.1 CBC+ GLUCOSE | MRP: ₹1,100 | 20% discount: ₹220 | Website price: ₹880
+47. HY SUMMER PROFILE | MRP: ₹1,200 | 20% discount: ₹240 | Website price: ₹960
+48. SUMMER PROFILE | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+49. PCOD PROFILE | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+50. PREGNANCY PROFILE | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+51. ARTHRITIS BASIC PANEL | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+52. CANCER PANEL (MALE) | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+53. ARTHRITIS BASIC PANEL - 2 | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+54. Arthritis first | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+55. ARTHRITIS PANAL (MINI) | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+56. ARTHRITIS PANAL I | MRP: ₹1,500 | 20% discount: ₹300 | Website price: ₹1,200
+57. ARTHRITIS PANAL II | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+58. ARTHRITIS PROFILE - A | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+59. ARTHRITIS PROFILE - B | MRP: ₹5,500 | 20% discount: ₹1,100 | Website price: ₹4,400
+60. ARTHRITIS PROFILE - C | MRP: ₹10,000 | 20% discount: ₹2,000 | Website price: ₹8,000
+61. ARTHRITIS PROFILE - M | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+62. ABHI-32 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+63. AIIMS panel 1 | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+64. AIIMS panel 2 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+65. ANA PROFILE | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+66. CANCER PANEL (FEMALE) | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+67. AMH GOLD | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+68. AMH PLUS | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+69. ANA PROFILE ELISA | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+70. GYNO-7 | MRP: ₹3,200 | 20% discount: ₹640 | Website price: ₹2,560
+71. HEPATITIS B PROFILE | MRP: ₹6,000 | 20% discount: ₹1,200 | Website price: ₹4,800
+72. HY AD WELLNESS - 1.3 | MRP: ₹3,200 | 20% discount: ₹640 | Website price: ₹2,560
+73. HY AD WELLNESS-1.2 | MRP: ₹2,400 | 20% discount: ₹480 | Website price: ₹1,920
+74. Body (Maxi) Health Plan - Aarogya365 - 2 - HY | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+75. BODY (PLATINUM) HEALTH PLAN - MALE | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+76. BODY (PLATINUM) HEALTH PLAN - FEMALE | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+77. FAMILY PROFILE | MRP: ₹900 | 20% discount: ₹180 | Website price: ₹720
+78. PRE HEALTH | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+79. HY FLUID-1 | MRP: ₹1,000 | 20% discount: ₹200 | Website price: ₹800
+80. HY coagulation profile -1 | MRP: ₹1,700 | 20% discount: ₹340 | Website price: ₹1,360
+81. CARDIAC PROFILE - M | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+82. CARDIAC RISK MARKERS | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+83. CARDIAC PROFILE - C | MRP: ₹7,000 | 20% discount: ₹1,400 | Website price: ₹5,600
+84. CARDIAC PROFILE - B | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+85. CARDIAC PROFILE - A | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+86. CARDIAC PANEL - II | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+87. CARDIAC PANEL - I | MRP: ₹1,100 | 20% discount: ₹220 | Website price: ₹880
+88. AMH PLUS | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+89. THALASSEMIA SCREEN | MRP: ₹2,000 | 20% discount: ₹400 | Website price: ₹1,600
+90. THALASSEMIA PROFILE | MRP: ₹3,600 | 20% discount: ₹720 | Website price: ₹2,880
+91. ANEMIA PROFILE - M | MRP: ₹1,320 | 20% discount: ₹264 | Website price: ₹1,056
+92. ANEMIA PROFILE II | MRP: ₹990 | 20% discount: ₹198 | Website price: ₹792
+93. ANEMIA STUDY | MRP: ₹12,121 | 20% discount: ₹2,424.20 | Website price: ₹9,696.80
+94. ANEMIA PROFILE - A | MRP: ₹1,870 | 20% discount: ₹374 | Website price: ₹1,496
+95. Anemia Profile - Aarogya365 - 2 - HY | MRP: ₹12,121 | 20% discount: ₹2,424.20 | Website price: ₹9,696.80
+96. ANEMIA PROFILE - B | MRP: ₹2,420 | 20% discount: ₹484 | Website price: ₹1,936
+97. ANEMIA PROFILE - C | MRP: ₹2,640 | 20% discount: ₹528 | Website price: ₹2,112
+98. ANEMIA PROFILE - I | MRP: ₹880 | 20% discount: ₹176 | Website price: ₹704
+99. ANEMIA PROFILE - III | MRP: ₹1,716 | 20% discount: ₹343.20 | Website price: ₹1,372.80
+100. ALLERGY PANEL II | MRP: ₹776 | 20% discount: ₹155.20 | Website price: ₹620.80
+101. HAIRFALL PROFIE | MRP: ₹5,000 | 20% discount: ₹1,000 | Website price: ₹4,000
+102. DIABETIC PANEL - MINI | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+103. DIABETIC PROFILE - A | MRP: ₹2,700 | 20% discount: ₹540 | Website price: ₹2,160
+104. DIABETIC PROFILE - B | MRP: ₹2,750 | 20% discount: ₹550 | Website price: ₹2,200
+105. DIABETIC PROFILE - C | MRP: ₹3,200 | 20% discount: ₹640 | Website price: ₹2,560
+106. DIABETIC PROFILE - M | MRP: ₹1,400 | 20% discount: ₹280 | Website price: ₹1,120
+107. INFERTILITY PROFILE - A | MRP: ₹4,000 | 20% discount: ₹800 | Website price: ₹3,200
+108. INFERTILITY PROFILE-FEMALE | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+109. INFERTILITY PROFILE-MALE | MRP: ₹3,000 | 20% discount: ₹600 | Website price: ₹2,400
+110. GLUCOSE TOLERANCE TEST ( GTT) - 3 SAMPLES | MRP: ₹200 | 20% discount: ₹40 | Website price: ₹160
+111. GLUCOSE TOLERANCE TEST ( GTT) - 5 SAMPLES | MRP: ₹300 | 20% discount: ₹60 | Website price: ₹240
+112. HY FIT PACK -D | MRP: ₹2,950 | 20% discount: ₹590 | Website price: ₹2,360
+113. HY FIT PACK -C | MRP: ₹2,350 | 20% discount: ₹470 | Website price: ₹1,880
+114. ANC NEW RAPID | MRP: ₹1,680 | 20% discount: ₹336 | Website price: ₹1,344
+115. BASIC FEVER PANEL | MRP: ₹700 | 20% discount: ₹140 | Website price: ₹560
+116. CBC GBP (PBS) | MRP: ₹600 | 20% discount: ₹120 | Website price: ₹480
+117. CAMP 1 | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+118. PCOS | MRP: ₹3,150 | 20% discount: ₹630 | Website price: ₹2,520
+119. HY FIT PROFILE | MRP: ₹3,500 | 20% discount: ₹700 | Website price: ₹2,800
+120. RA ASO CRP | MRP: ₹1,400 | 20% discount: ₹280 | Website price: ₹1,120
+121. BASIC FEVER PANEL - 2 | MRP: ₹1,400 | 20% discount: ₹280 | Website price: ₹1,120
+122. INDEPENDENT PROFILE | MRP: ₹2,500 | 20% discount: ₹500 | Website price: ₹2,000
+
+==========================================================================================
+GOOGLE AI STUDIO PROMPT — COPY THIS AFTER THE RATE LIST IS AVAILABLE TO THE PROJECT
+==========================================================================================
+You are editing the existing Pawan Research Laboratory website project. Integrate the complete rate list in this document into the website.
+
+STRICT REQUIREMENTS:
+1. Preserve the existing design, layout, colors, typography, responsive behavior, images, booking flow, language switch, and all current features. Do not redesign the website.
+2. Use the full lab name exactly: “Pawan Research Laboratory”. Tagline: “Foundation of the Best Reporting”.
+3. Use ONLY the MRP and website price supplied in the rate list below. Ignore Assigned Price and B2B Price entirely.
+4. Display MRP crossed out, show “20% OFF”, and display the website price prominently. Website price is MRP × 0.80. Do not calculate a second discount if the discounted price is already supplied.
+5. Never invent or guess missing prices, names, test categories, specimen types, descriptions, included tests, or Hindi translations. If a price is missing, show “Price to be confirmed by laboratory” (and the equivalent in Hindi if the project supports Hindi).
+6. Import or update the existing project data files (currently expected under src/data, including testsData.ts and packagesData.ts) and keep the code compatible with existing types. Do not delete unrelated functionality or replace the app with a simplified demo.
+7. Match existing test records to the rate list by exact/normalized test name. Preserve current descriptions, categories, sample types, Hindi names and other metadata where a matching record already exists. For a new record, use neutral fallback values supported by the existing types and label unknown metadata conservatively; do not claim medical facts that are not in the source.
+8. Make every rate-list item searchable/listed where the existing site supports test/profile search. Ensure there are no duplicate records for the same test just because spelling or punctuation differs.
+9. If the response or context is too long to process all records at once, do not silently omit records. Create a staged plan and ask for the remaining chunks, tracking the last completed item. Do not claim all rates were integrated unless all entries were processed.
+10. Before finishing, validate TypeScript syntax, imports, type compatibility, and build errors. Summarize files changed and any entries that could not be matched. Do not alter the Google Maps location unless the user explicitly provides and asks to use the new map link.
+
+RATE LIST FOLLOWS:
+
+IMPORTANT: The rate list is above in Sections A and B. Use every entry.
